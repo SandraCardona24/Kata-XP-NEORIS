@@ -5,3 +5,4 @@ install:
 script:
 - xbuild ./TDD.Kata.StringCalculator/TDD.Kata.StringCalculator.sln
 - mono ./TDD.Kata.StringCalculator/packages/xunit.runner.console*/tools/xunit.console.exe ./TDD.Kata.StringCalculator/TDD.Kata.StringCalculator.Tests.Unit/bin/Debug/TDD.Kata.StringCalculator.Tests.Unit.dll
+**Hello**
